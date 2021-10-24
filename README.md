@@ -1,8 +1,9 @@
 # Wiki
 
-🌐 Public Access
+Legend:
 
-🔒 Closed Access
+* 🌐 Public Access
+* 🔒 Closed Access
 
 ## Front-end
 
