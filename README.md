@@ -14,3 +14,13 @@ Legend:
    * 🌐 [EggHead > Fundamentals of Redux](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
    * 🌐 [EggHead > Apply Redux to a Modern React Hooks Application](https://egghead.io/courses/apply-redux-to-a-modern-react-hooks-application-8a37)
    * 🌐 [EggHead > Modern Redux with Redux Toolkit (RTK) and TypeScript](https://egghead.io/courses/modern-redux-with-redux-toolkit-rtk-and-typescript-64f243c8)
+
+
+## Back-end
+
+#### Configure and deploy Hasura + YugabyteDB server
+
+ [Check YugabyteDB deploy Docs](https://docs.yugabyte.com/latest/deploy/docker/docker-compose/)
+
+* (Terminal): `docker pull yugabytedb/yugabyte` 
+
