@@ -1,6 +1,7 @@
 # Wiki
 
 🌐 Public Access
+
 🔒 Closed Access
 
 ## Front-end
